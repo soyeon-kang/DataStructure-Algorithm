@@ -1,28 +1,24 @@
 # DataStructure-Algorithm
 
-## Coding Test 준비를 위한
-## Data structure & Algorithm in c++ 
+## Coding Test 준비를 위한 Data structure & Algorithm in c++ 
 
-자료구조
+### 자료구조
 
-<ol>
-  링크드 리스트
-  스태
-  큐
-  히
-  트리
-  벡터
-  trie
-  map
-<ol>
+ - 링크드 리스트
+ - 스택
+ - 큐
+ - 힙
+ - 트리
+ - 벡터
+ - trie
+ - map
   
-  <ol>
-  알고리즈
-  정렬 (퀵소트)
-  이진탐새
-  DP
-  최단 경로
-  그래프 이론
-  Bitmasking
-  분할정복
-  <al>
+  
+###  알고리즘
+  - 정렬 (퀵소트)
+  - 이진탐색
+  - DP
+  - 최단 경로
+  - 그래프 이론
+  - Bitmasking
+  - 분할정복
