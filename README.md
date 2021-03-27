@@ -1,7 +1,7 @@
 # DataStructure-Algorithm
 
-# Coding Test 준비를 위한
-# Data structure & Algorithm in c++ H1
+## Coding Test 준비를 위한
+## Data structure & Algorithm in c++ 
 
 자료구조
 
